@@ -4,7 +4,7 @@ Aplikasi untuk membantu pembelian produk digital dan pembayaran tagihan.
 
 ## Download
 
-[Unduh GampilOh versi terbaru](https://github.com/didafast/GampilOh-Download/releases/latest)
+[Unduh GampilOh versi terbaru](https://github.com/didafast/GampilOh-Download/releases)
 
 ## Cara memasang
 
