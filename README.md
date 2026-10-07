@@ -17,5 +17,4 @@ Android mungkin meminta izin memasang aplikasi dari browser atau aplikasi file y
 ## Informasi
 
 - Repo ini khusus untuk distribusi APK dan informasi rilis.
-- Kode sumber aplikasi tidak disertakan di sini.
 - Setiap rilis mencantumkan versi dan catatan perubahan.
